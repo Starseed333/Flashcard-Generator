@@ -2,7 +2,7 @@ console.log('inside clozecard.js');
 
 
 
-// Constructor function for creating CasicCard objects.
+// Constructor function for creating ClozeCard objects.
 //Accepts two arguments.
 var ClozeCard = function(text, cloze) {
 
