@@ -1,0 +1,24 @@
+{"fullText":"JFK was assasinated while driving through Dallas in November 1963.","cloze":"Dallas","partial":"JFK was assasinated while driving through in November 1963"}
+{"front":"The __ was created in 1215 issued by King John I of England. It was a document the royal power away.","back":"Magna Carta"}
+{"front":"....was the first Western explorer to reach China.","back":"Marco Polo"}
+{"front":"In 1594 Shakespeare becamse an actor and playfulwright in the company of the ....","back":"Globe Theatre"}
+{"front":"The Roman Emperor ...built a massive wall across Northern Britain in 122 A.D.","back":"Hadrian"}
+{"fullText":"Jimmy Carter was the first U.S president born in a what? 'Hospital'","cloze":"Hospital","partial":"Jimmy Carter was the first U.S. president born in a what?"}
+{"front":"In 1867 the United States purchased Alaska from what country?","back":"Russia"}
+{"front":"What do the letters ZIP stand for in the united states?","back":"Zone Improvement Plan"}
+{"front":"The inventor Nikola Tesla was born on July 10th 1856 in what modern day country?","back":"Croatia"}
+{"fullText":"Who is credited with suggesting the word HELLO be used when answering the telephone? Thomas Edison","cloze":"Thomas Edison","partial":"Who is credited with suggesting the word HELLO be used when answering the telephone?"}
+{"fullText":"Who was vice president of the United States when Lincoln was assassinated? Andrew Johnson","cloze":"Andrew Johnson","partial":"Who was president of the United States when Lincoln was assisanted?"}
+{"front":"","back":""}
+{"front":"","back":"n"}
+{"front":"n","back":""}
+{"front":"","back":""}
+{"front":"","back":""}
+{"front":"","back":""}
+{"text":"The use of Chopsticks originated in what country? China","cloze":"China","partial":"The use of Chopsticks originated in what country? ..."}
+{"front":"What famous dictator was assasinatd on the Ides of March?","back":"Julius Ceasar"}
+{"text":"What does the Statue of Liberty hold in her right hand? A torch","cloze":"A torch","partial":"What does the Statue of Liberty hold in her right hand? ..."}
+{"text":"The Van Gogh Museum is located in what European capital city? Amsterdam","cloze":"Amsterdam","partial":"The Van Gogh Museum is located in what European capital city? _____"}
+{"text":"Today is Friday the 13th. A scary day indeed lol!","cloze":"Friday the 13th","partial":"Today is _____. A scary day indeed lol!"}
+{"text":"Today is Friday the 13th. A scary day!","cloze":"Friday the 13th","partial":"Today is _____. A scary day!"}
+{"front":"Be yourself everyone else is already taken","back":"Oscar Wilde"}
