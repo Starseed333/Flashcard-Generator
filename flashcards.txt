@@ -22,3 +22,5 @@
 {"text":"Today is Friday the 13th. A scary day indeed lol!","cloze":"Friday the 13th","partial":"Today is _____. A scary day indeed lol!"}
 {"text":"Today is Friday the 13th. A scary day!","cloze":"Friday the 13th","partial":"Today is _____. A scary day!"}
 {"front":"Be yourself everyone else is already taken","back":"Oscar Wilde"}
+{"front":"Today","back":"is a lovely day"}
+{"text":"To be or not to be","cloze":"or not to be","partial":"To be _____"}
