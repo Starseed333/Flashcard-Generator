@@ -15,7 +15,7 @@ This is a command line application with two types of flashcards, The Basic & The
 
 "... was the first president of the United States."
 
-##This CLI flash card is built with three parts:
+## This CLI flash card is built with three parts:
 
 * The full text. This is the entire sentence users need to remember:  "George Washington was the first president of the United States."
 
